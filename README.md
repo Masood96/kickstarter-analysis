@@ -37,7 +37,7 @@ One conclusion that can be made is that her campaign was successful as the  succ
 
 - What are some limitations of this dataset?
 
-Some limitations can be that Loiuse may not be present the data correctly.
+Some limitations can be that Loiuse may not have presented the data correctly.
 
 - What are some other possible tables and/or graphs that we could create?
 
